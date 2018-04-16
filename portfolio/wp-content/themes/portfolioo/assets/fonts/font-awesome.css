@@ -6,12 +6,12 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://jowell-e.github.io/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.eot');
-  src: url('https://jowell-e.github.io/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.eot#iefix') format('embedded-opentype'), 
-  url('https://jowell-e.github.io/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.woff2') format('woff2'), 
-  url('https://jowell-e.github.io/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.woff') format('woff'), 
-  url('https://jowell-e.github.io/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.ttf') format('truetype'), 
-  url('https://jowell-e.github.io/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.svg#fontawesomeregular') format('svg');
+  src: url('https://jowell-e.github.io/portfolio/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.eot');
+  src: url('https://jowell-e.github.io/portfolio/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.eot#iefix') format('embedded-opentype'), 
+  url('https://jowell-e.github.io/portfolio/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.woff2') format('woff2'), 
+  url('https://jowell-e.github.io/portfolio/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.woff') format('woff'), 
+  url('https://jowell-e.github.io/portfolio/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.ttf') format('truetype'), 
+  url('https://jowell-e.github.io/portfolio/wp-content/themes/portfolioo/assets/fonts/fontawesome/fontawesome-webfont.svg#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
