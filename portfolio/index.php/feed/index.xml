@@ -9,27 +9,27 @@
 
 <channel>
 	<title>Joel Esquilin</title>
-	<atom:link href="https://http://https//jowell-e.github.io/portfolio/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>https://http://https//jowell-e.github.io/portfolio</link>
+	<atom:link href="https://jowell-e.github.io/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jowell-e.github.io</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:48:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Apr 2018 01:34:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://http://https//jowell-e.github.io/portfolio/index.php/2018/04/16/hello-world/</link>
-		<comments>https://http://https//jowell-e.github.io/portfolio/index.php/2018/04/16/hello-world/#comments</comments>
+		<link>https://jowell-e.github.io/index.php/2018/04/16/hello-world/</link>
+		<comments>https://jowell-e.github.io/index.php/2018/04/16/hello-world/#comments</comments>
 		<pubDate>Mon, 16 Apr 2018 00:48:13 +0000</pubDate>
 		<dc:creator><![CDATA[raiouku]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://http://https//jowell-e.github.io/portfolio/?p=1</guid>
+		<guid isPermaLink="false">https://jowell-e.github.io/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://http://https//jowell-e.github.io/portfolio/index.php/2018/04/16/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jowell-e.github.io/index.php/2018/04/16/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
