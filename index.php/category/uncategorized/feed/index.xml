@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Joel Esquilin</title>
-	<atom:link href="https://jowell-e.github.io/index.php/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Joel Esquilin</title>
+	<atom:link href="https://jowell-e.github.io/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jowell-e.github.io</link>
 	<description>Portfolio</description>
 	<lastBuildDate>Mon, 16 Apr 2018 04:20:25 +0000</lastBuildDate>
